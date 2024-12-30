@@ -1,0 +1,26 @@
+{
+    "name": "Artemiano Extension",
+    "description": "Extention for helping interactions with Artemiano application",
+    "version": "0.1",
+    "manifest_version": 3,
+    "permissions": [
+        "scripting",
+        "activeTab"
+    ],
+    "host_permissions": [
+        "https://www.twitch.tv/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.twitch.tv/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "css": [
+                "styles.css"
+            ]
+        }
+    ]
+}
