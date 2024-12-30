@@ -1,0 +1,11 @@
+.artemiano-button {
+    transition: background-color 0.3s ease;
+    padding: .25rem;
+    width: 100%;
+    height: 100%;
+    border-radius: .25rem;
+}
+
+.artemiano-button:hover {
+    background-color: var(--seventv-highlight-neutral-1);
+}
