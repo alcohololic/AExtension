@@ -1,5 +1,5 @@
 # AExtension
-A simple Google Chrome extension to interact with Artemiano appliaction
+A simple Google Chrome extension to interact with [Artemiano](https://artemiano.top/) appliaction
 
 # How to install
 1. Download release version
@@ -7,4 +7,4 @@ A simple Google Chrome extension to interact with Artemiano appliaction
 3. Open Google Chrome extention settings
 4. Turn on developer mode
 5. Add new unpacked extention
-6. Thets it!
+6. Thats it!
